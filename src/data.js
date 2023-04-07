@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Wordpress",
     description:
       "Raim Collection is a vintage clothes store that sells a variety of cool products from t-shirts, jackets, caps and shoes",
-    image: "./project-1.gif",
+    image: "./raimcollection.gif",
     link: "https://raimcollection.co.ke",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Wordpress",
     description:
       "Maktaba Studios is a book store that has a large library with a variety of books",
-    image: "./project-2.gif",
+    image: "./maktabastudios.gif",
     link: "https://maktabastudios.co.ke",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Vuejs",
     description:
       "Maticko is an online ticketing platform",
-    image: "./project-3.gif",
+    image: "./maticko.gif",
     link: "https://reactbootcamp.com",
   },
   {
