@@ -21,15 +21,15 @@ export const projects = [
     description:
       "Maticko is an online ticketing platform",
     image: "./maticko.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://maticko.netlify.app",
   },
   {
     title: "Anvil",
     subtitle: "HTML, CSS, JavaScript",
     description:
       "Anvil is a portfolio site for the anvil organization",
-    image: "./project-4.gif",
-    link: "https://dixonkimandu.github.io",
+    image: "./anvil.gif",
+    link: "https://dixonkimandu.github.io/anvil/",
   },
 ];
 
