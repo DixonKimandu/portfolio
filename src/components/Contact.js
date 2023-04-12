@@ -46,13 +46,13 @@ export default function Contact() {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
                             </h2>
-                            <a className="text-indigo-400 leading-relaxed">
+                            <a href="mailto:kimandundungu@gmail.com" className="text-indigo-400 leading-relaxed">
                                 kimandundungu@gmail.com
                             </a>
                             <h2 className="title-font mt-4 font-semibold text-white tracking-widest text-xs">
                                 GITHUB
                             </h2>
-                            <a className="text-indigo-400 leading-relaxed">
+                            <a href="https://github.com/DixonKimandu" className="text-indigo-400 leading-relaxed">
                                 https://github.com/DixonKimandu
                             </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
